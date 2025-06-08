@@ -13,29 +13,25 @@
 
 ```bash
 npm install express axios ejs
-
 Τρέξιμο του έργου
-1️⃣ Κλωνοποίησε το αποθετήριο:
 
+1️⃣ Κλωνοποίησε το αποθετήριο:
 git clone https://github.com/KyriakosVerveridis/rest-api-with-axios.git
 
 2️⃣ Πήγαινε στον φάκελο του έργου:
-
 cd rest-api-with-axios
+
 3️⃣ Εγκατάστησε τις εξαρτήσεις:
-
 npm install
-4️⃣ Τρέξε τον διακομιστή:
 
+4️⃣ Τρέξε τον διακομιστή:
 node index.js
 ή με nodemon:
 
 npx nodemon index.js
 📦 Εξαρτήσεις (dependencies)
 express
-
 axios
-
 ejs
 
 ✍️ Περιγραφή
